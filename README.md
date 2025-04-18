@@ -14,7 +14,7 @@
 ## 🎓 Educación
 
 - 🎓 **Ingeniería Aeronáutica** – Universidad Pontificia Bolivariana  
-- 🎓 **Ingeniería de Sistemas** _ Universidad Libre
+- 🎓 **Ingeniería de Sistemas** – Universidad Libre
 
 ---
 
