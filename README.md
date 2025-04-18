@@ -12,9 +12,9 @@
 ---
 
 ## 🎓 Educación
-
-- 🎓 **Ingeniería Aeronáutica** – Universidad Pontificia Bolivariana  
+ 
 - 🎓 **Ingeniería de Sistemas** – Universidad Libre
+- 🎓 **Ingeniería Aeronáutica** – Fundación Universitaria Los Libertadores 
 
 ---
 
