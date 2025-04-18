@@ -21,14 +21,14 @@
 ## 📜 Certificaciones
 
 - 🧠 **Fundamentos de Inteligencia Artificial** – Platzi  
-- 📊 **Fundamentos de Data Science** – Platzi  
+- 📊 **Data Analytics Essentials** – Cisco  
 - 🛠️ **Data Engineering Fundamentals** – Platzi  
 - 🧹 **Curso de ETL con Python y Airflow** – Platzi  
-- 🧮 **Curso de Fundamentos de Matemáticas para Machine Learning** – Platzi  
+- 🧮 **AWS Academy Cloud Foundation** – AWS Academy  
 - 🧪 **Curso de Estadística Descriptiva** – Platzi  
 - 🖥️ **Curso de Fundamentos de Programación** – Platzi  
 - ⚙️ **Curso de Git y GitHub** – Platzi  
-- 🧬 **Curso de Algoritmos** – Platzi  
+- 🧬 **Programa Especializado - From Data to Insights with Google Cloud** – Google  
 
 ---
 
